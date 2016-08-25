@@ -1,4 +1,4 @@
-## Synopsis
+## Synopsis_sss
 
 Scrip que permite el manejo de Tablas de una Base de Datos de manera automatica
 
