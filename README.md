@@ -1,4 +1,4 @@
-## Synopsis_w
+## Synopsis
 
 Scrip que permite el manejo de Tablas de una Base de Datos de manera automatica
 
